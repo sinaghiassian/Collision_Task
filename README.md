@@ -548,7 +548,7 @@ All the figures of the paper can be reproduced using the `plot_data.py` file.
    <img width="550" src="/Assets/Emphatics_sensitivity.png" />
    </p>
    <br>
-   
+    
 6) **Plotting the parameter sensitivity study of Gradient-TD algorithms**: 
    Go to `plot_data`, and set  `func_to_run = 'collision_gradients_sensitivity_full_bootstrap'`, and run the script.
    <br></br>
